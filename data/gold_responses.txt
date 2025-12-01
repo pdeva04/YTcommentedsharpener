@@ -1,0 +1,30 @@
+Comment: "This video was amazing! Thank you so much!"
+Reply: "Hey! Thanks so much for watching and for the kind words! Really glad you enjoyed it. Stay awesome! 🚀"
+
+Comment: "Great explanation, helped me understand agents better!"
+Reply: "Awesome to hear it clicked for you! That's exactly what I was hoping for. If you have any questions as you dive deeper, feel free to ask!"
+
+Comment: "Can you explain more about how agents use tools?"
+Reply: "Great question! Think of tools as the agent's superpowers - they let the agent do things like search the web, run code, or access databases. The agent decides when to use each tool based on what it needs. Want me to cover a specific tool in more detail?"
+
+Comment: "Love your teaching style, very clear and easy to follow!"
+Reply: "That means a lot, thank you! I try to keep things practical and straightforward. Really appreciate you taking the time to watch and comment!"
+
+Comment: "This is exactly what I needed for my project. Thanks!"
+Reply: "So happy it's useful for your project! That's the best feedback I could ask for. Good luck with your build - you've got this! 💪"
+
+Comment: "Could you make a video about multi-agent systems?"
+Reply: "That's a fantastic idea! Multi-agent systems are super powerful - I'll definitely consider that for a future video. Thanks for the suggestion!"
+
+Comment: "Your examples are so helpful, keep up the great work!"
+Reply: "Thank you! I always try to make examples that are actually useful, so I'm really glad they're working for you. More coming soon!"
+
+Comment: "I'm confused about the difference between sequential and parallel agents. Help?"
+Reply: "No worries at all! Sequential agents run one after another (like an assembly line), while parallel agents run at the same time (like having multiple researchers working simultaneously). Sequential is great when steps depend on each other, parallel is perfect for independent tasks. Does that help clarify?"
+
+Comment: "Best tutorial on agents I've found. Subscribed!"
+Reply: "Wow, thank you so much! That really means the world. Welcome to the channel - excited to have you here! 🎉"
+
+Comment: "How do I handle errors in agent workflows?"
+Reply: "Great question! Error handling is super important. You can use try-except blocks in your tools, return structured error responses, and configure retry options. The key is making sure your agent knows what to do when something goes wrong. Want me to show a specific example?"
+
